@@ -1,0 +1,308 @@
+{
+    "0": {
+        "Plant": "Apple",
+        "Disease": "Apple-scab",
+        "Sunlight": "Partial shade to full sun",
+        "Humidity": "Moderate to high humidity levels",
+        "Soil": "Well-drained soil with a pH of 6.0 to 6.5",
+        "Preventive Measures": "1. Choose resistant varieties.\n2. Rake up and destroy infected leaves.\n3. Prune trees to increase airflow and sunlight penetration.\n4. Apply fungicides preventively."
+    },
+    "1": {
+        "Plant": "Apple",
+        "Disease": "Black-rot",
+        "Sunlight": "Partial shade to full sun",
+        "Humidity": "Moderate humidity levels",
+        "Soil": "Well-drained soil with a pH of 6.0 to 6.5",
+        "Preventive Measures": "1. Remove and destroy infected fruit.\n2. Prune trees to improve airflow and sunlight penetration.\n3. Apply fungicides preventively during the growing season."
+    },
+    "2": {
+        "Plant": "Apple",
+        "Disease": "Cedar-apple-rust",
+        "Sunlight": "Partial shade to full sun",
+        "Humidity": "Moderate to high humidity levels",
+        "Soil": "Well-drained soil with a pH of 6.0 to 7.0",
+        "Preventive Measures": "1. Remove and destroy infected leaves, fruit, and branches.\n2. Plant resistant varieties.\n3. Prune trees to improve airflow.\n4. Apply fungicides preventively."
+    },
+    "3": {
+        "Plant": "Apple",
+        "Disease": "Healthy",
+        "Sunlight": "Partial shade to full sun",
+        "Humidity": "Moderate humidity levels",
+        "Soil": "Well-drained soil with a pH of 6.0 to 7.0",
+        "Preventive Measures": "No preventive measures required for healthy apple plants."
+    },
+    "4": {
+        "Plant": "Blueberry",
+        "Disease": "Healthy",
+        "Sunlight": "Full sun to partial shade",
+        "Humidity": "Moderate to high humidity levels",
+        "Soil": "Acidic, well-drained soil with a pH of 4.5 to 5.5",
+        "Preventive Measures": "No preventive measures required for healthy blueberry plants."
+    },
+    "5": {
+        "Plant": "Cherry (including sour)",
+        "Disease": "Powdery-mildew",
+        "Sunlight": "Full sun to partial shade",
+        "Humidity": "Moderate humidity levels",
+        "Soil": "Well-drained soil with a pH of 6.0 to 7.5",
+        "Preventive Measures": "1. Plant resistant varieties.\n2. Prune trees to increase airflow.\n3. Apply fungicides preventively.\n4. Avoid overhead watering."
+    },
+    "6": {
+        "Plant": "Cherry (including sour)",
+        "Disease": "Healthy",
+        "Sunlight": "Full sun to partial shade",
+        "Humidity": "Moderate to high humidity levels",
+        "Soil": "Well-drained soil with a pH of 6.0 to 7.5",
+        "Preventive Measures": "No preventive measures required for healthy cherry plants."
+    },
+    "7": {
+        "Plant": "Corn (maize)",
+        "Disease": "Cercospora-leaf-spot-Gray-leaf-spot",
+        "Sunlight": "Full sun",
+        "Humidity": "Moderate humidity levels",
+        "Soil": "Well-drained soil with a pH of 5.8 to 7.0",
+        "Preventive Measures": "1. Rotate crops to break the disease cycle.\n2. Remove and destroy infected leaves.\n3. Apply fungicides preventively."
+    },
+    "8": {
+        "Plant": "Corn (maize)",
+        "Disease": "Common-rust",
+        "Sunlight": "Full sun",
+        "Humidity": "Moderate humidity levels",
+        "Soil": "Well-drained soil with a pH of 5.8 to 7.0",
+        "Preventive Measures": "1. Plant resistant varieties.\n2. Rotate crops to break the disease cycle.\n3. Remove and destroy infected leaves.\n4. Avoid planting corn near wheat or oats."
+    },
+    "9": {
+        "Plant": "Corn (maize)",
+        "Disease": "Northern-Leaf-Blight",
+        "Sunlight": "Full sun",
+        "Humidity": "Moderate humidity levels",
+        "Soil": "Well-drained soil with a pH of 5.8 to 7.0",
+        "Preventive Measures": "1. Choose resistant varieties.\n2. Rotate crops to break the disease cycle.\n3. Remove and destroy infected leaves.\n4. Avoid overhead irrigation."
+    },
+
+    "10": {
+        "Plant": "Corn (maize)",
+        "Disease": "Healthy",
+        "Sunlight": "Full sun",
+        "Humidity": "Moderate humidity levels",
+        "Soil": "Well-drained soil with a pH of 5.8 to 7.0",
+        "Preventive Measures": "No preventive measures required for healthy corn plants."
+    },
+    "11": {
+        "Plant": "Grape",
+        "Disease": "Black-rot",
+        "Sunlight": "Full sun to partial shade",
+        "Humidity": "Moderate humidity levels",
+        "Soil": "Well-drained soil with a pH of 5.5 to 7.0",
+        "Preventive Measures": "1. Prune vines to increase airflow and sunlight penetration.\n2. Remove and destroy infected fruit.\n3. Apply fungicides preventively."
+    },
+    "12": {
+        "Plant": "Grape",
+        "Disease": "Esca-(Black-Measles)",
+        "Sunlight": "Full sun to partial shade",
+        "Humidity": "Moderate to high humidity levels",
+        "Soil": "Well-drained soil with a pH of 6.0 to 7.5",
+        "Preventive Measures": "1. Prune vines to improve airflow.\n2. Apply fungicides preventively.\n3. Avoid excessive nitrogen fertilization."
+    },
+    "13": {
+        "Plant": "Grape",
+        "Disease": "Leaf-blight-(Isariopsis-Leaf-Spot)",
+        "Sunlight": "Full sun to partial shade",
+        "Humidity": "Moderate humidity levels",
+        "Soil": "Well-drained soil with a pH of 5.5 to 7.5",
+        "Preventive Measures": "1. Prune vines to increase airflow.\n2. Apply fungicides preventively.\n3. Avoid overhead irrigation."
+    },
+    "14": {
+        "Plant": "Grape",
+        "Disease": "Healthy",
+        "Sunlight": "Full sun to partial shade",
+        "Humidity": "Moderate to high humidity levels",
+        "Soil": "Well-drained soil with a pH of 5.5 to 7.5",
+        "Preventive Measures": "No preventive measures required for healthy grape plants."
+    },
+    "15": {
+        "Plant": "Orange",
+        "Disease": "Haunglongbing-(Citrus-greening)",
+        "Sunlight": "Full sun",
+        "Humidity": "Moderate humidity levels",
+        "Soil": "Well-drained soil with a pH of 6.0 to 7.5",
+        "Preventive Measures": "1. Plant disease-free nursery stock.\n2. Control psyllid insects, which spread the disease.\n3. Remove and destroy infected trees."
+    },
+    "16": {
+        "Plant": "Peach",
+        "Disease": "Bacterial-spot",
+        "Sunlight": "Full sun",
+        "Humidity": "Moderate humidity levels",
+        "Soil": "Well-drained soil with a pH of 6.0 to 6.8",
+        "Preventive Measures": "1. Plant disease-resistant varieties.\n2. Prune trees to improve airflow.\n3. Apply copper-based fungicides preventively."
+    },
+    "17": {
+        "Plant": "Peach",
+        "Disease": "Healthy",
+        "Sunlight": "Full sun",
+        "Humidity": "Moderate humidity levels",
+        "Soil": "Well-drained soil with a pH of 6.0 to 6.8",
+        "Preventive Measures": "No preventive measures required for healthy peach trees."
+    },
+    "18": {
+        "Plant": "Pepper Bell",
+        "Disease": "Bacterial-spot",
+        "Sunlight": "Full sun",
+        "Humidity": "Moderate humidity levels",
+        "Soil": "Well-drained soil with a pH of 6.0 to 7.0",
+        "Preventive Measures": "1. Plant disease-resistant varieties.\n2. Space plants properly for good air circulation.\n3. Apply copper-based fungicides preventively."
+    },
+    "19": {
+        "Plant": "Pepper Bell",
+        "Disease": "Healthy",
+        "Sunlight": "Full sun",
+        "Humidity": "Moderate humidity levels",
+        "Soil": "Well-drained soil with a pH of 6.0 to 7.0",
+        "Preventive Measures": "No preventive measures required for healthy pepper bell plants."
+    },
+    "20": {
+        "Plant": "Potato",
+        "Disease": "Early-blight",
+        "Sunlight": "Full sun",
+        "Humidity": "Moderate humidity levels",
+        "Soil": "Well-drained, sandy loam soil with a pH of 5.0 to 7.0",
+        "Preventive Measures": "1. Rotate crops to prevent buildup of pathogens.\n2. Remove and destroy infected plant debris.\n3. Apply fungicides preventively."
+    },
+    "21": {
+        "Plant": "Potato",
+        "Disease": "Late-blight",
+        "Sunlight": "Full sun",
+        "Humidity": "High humidity levels",
+        "Soil": "Well-drained, sandy loam soil with a pH of 5.0 to 7.0",
+        "Preventive Measures": "1. Plant disease-resistant varieties.\n2. Space plants properly for good airflow.\n3. Remove and destroy infected plant parts.\n4. Apply fungicides preventively."
+    },
+    "22": {
+        "Plant": "Potato",
+        "Disease": "Healthy",
+        "Sunlight": "Full sun",
+        "Humidity": "Moderate humidity levels",
+        "Soil": "Well-drained, sandy loam soil with a pH of 5.0 to 7.0",
+        "Preventive Measures": "No preventive measures required for healthy potato plants."
+    },
+    "23": {
+        "Plant": "Raspberry",
+        "Disease": "Healthy",
+        "Sunlight": "Full sun to partial shade",
+        "Humidity": "Moderate to high humidity levels",
+        "Soil": "Well-drained, fertile soil with a pH of 5.5 to 6.5",
+        "Preventive Measures": "No preventive measures required for healthy raspberry plants."
+    },
+    "24": {
+        "Plant": "Soybean",
+        "Disease": "Healthy",
+        "Sunlight": "Full sun",
+        "Humidity": "Moderate humidity levels",
+        "Soil": "Well-drained soil with a pH of 6.0 to 7.0",
+        "Preventive Measures": "No preventive measures required for healthy soybean plants."
+    },
+    "25": {
+        "Plant": "Squash",
+        "Disease": "Powdery-mildew",
+        "Sunlight": "Full sun",
+        "Humidity": "Moderate to high humidity levels",
+        "Soil": "Well-drained soil with a pH of 6.0 to 7.5",
+        "Preventive Measures": "1. Plant disease-resistant varieties.\n2. Provide good air circulation.\n3. Apply fungicides preventively."
+    },
+    "26": {
+        "Plant": "Strawberry",
+        "Disease": "Leaf-scorch",
+        "Sunlight": "Full sun to partial shade",
+        "Humidity": "Moderate humidity levels",
+        "Soil": "Well-drained, sandy loam soil with a pH of 5.5 to 6.8",
+        "Preventive Measures": "1. Plant disease-resistant varieties.\n2. Avoid overhead watering.\n3. Apply fungicides preventively."
+    },
+    "27": {
+        "Plant": "Strawberry",
+        "Disease": "Healthy",
+        "Sunlight": "Full sun to partial shade",
+        "Humidity": "Moderate humidity levels",
+        "Soil": "Well-drained, sandy loam soil with a pH of 5.5 to 6.8",
+        "Preventive Measures": "No preventive measures required for healthy strawberry plants."
+    },
+    "28": {
+        "Plant": "Tomato",
+        "Disease": "Bacterial-spot",
+        "Sunlight": "Full sun",
+        "Humidity": "Moderate humidity levels",
+        "Soil": "Well-drained soil with a pH of 6.0 to 7.0",
+        "Preventive Measures": "1. Plant disease-resistant varieties.\n2. Space plants properly for good air circulation.\n3. Avoid overhead watering.\n4. Apply copper-based fungicides preventively."
+    },
+    "29": {
+        "Plant": "Tomato",
+        "Disease": "Early-blight",
+        "Sunlight": "Full sun",
+        "Humidity": "Moderate humidity levels",
+        "Soil": "Well-drained soil with a pH of 6.0 to 7.0",
+        "Preventive Measures": "1. Rotate crops to prevent buildup of pathogens.\n2. Remove and destroy infected plant debris.\n3. Apply fungicides preventively."
+    },
+
+"30": {
+        "Plant": "Tomato",
+        "Disease": "Late-blight",
+        "Sunlight": "Full sun",
+        "Humidity": "Moderate humidity levels",
+        "Soil": "Well-drained soil with a pH of 6.0 to 7.0",
+        "Preventive Measures": "1. Plant disease-resistant varieties.\n2. Space plants properly for good airflow.\n3. Remove and destroy infected plant parts.\n4. Apply fungicides preventively."
+    },
+    "31": {
+        "Plant": "Tomato",
+        "Disease": "Leaf-Mold",
+        "Sunlight": "Full sun",
+        "Humidity": "Moderate to high humidity levels",
+        "Soil": "Well-drained soil with a pH of 6.0 to 7.0",
+        "Preventive Measures": "1. Provide good air circulation.\n2. Avoid overhead watering.\n3. Apply fungicides preventively."
+    },
+    "32": {
+        "Plant": "Tomato",
+        "Disease": "Septoria-leaf-spot",
+        "Sunlight": "Full sun",
+        "Humidity": "Moderate to high humidity levels",
+        "Soil": "Well-drained soil with a pH of 6.0 to 7.0",
+        "Preventive Measures": "1. Remove and destroy infected plant debris.\n2. Space plants properly for good airflow.\n3. Apply fungicides preventively."
+    },
+    "33": {
+        "Plant": "Tomato",
+        "Disease": "Spider-mites-Two-spotted-spider-mite",
+        "Sunlight": "Full sun",
+        "Humidity": "Moderate humidity levels",
+        "Soil": "Well-drained soil with a pH of 6.0 to 7.0",
+        "Preventive Measures": "1. Monitor plants regularly for signs of infestation.\n2. Use insecticidal soaps or oils to control spider mites.\n3. Provide good air circulation."
+    },
+    "34": {
+        "Plant": "Tomato",
+        "Disease": "Target-Spot",
+        "Sunlight": "Full sun",
+        "Humidity": "Moderate humidity levels",
+        "Soil": "Well-drained soil with a pH of 6.0 to 7.0",
+        "Preventive Measures": "1. Remove and destroy infected plant debris.\n2. Space plants properly for good airflow.\n3. Apply fungicides preventively."
+    },
+    "35": {
+        "Plant": "Tomato",
+        "Disease": "Tomato-Yellow-Leaf-Curl-Virus",
+        "Sunlight": "Full sun",
+        "Humidity": "Moderate humidity levels",
+        "Soil": "Well-drained soil with a pH of 6.0 to 7.0",
+        "Preventive Measures": "1. Use disease-resistant varieties if available.\n2. Control whiteflies, which spread the virus.\n3. Remove and destroy infected plants."
+    },
+    "36": {
+        "Plant": "Tomato",
+        "Disease": "Tomato-mosaic-virus",
+        "Sunlight": "Full sun",
+        "Humidity": "Moderate humidity levels",
+        "Soil": "Well-drained soil with a pH of 6.0 to 7.0",
+        "Preventive Measures": "1. Plant disease-resistant varieties.\n2. Control aphids, which spread the virus.\n3. Remove and destroy infected plants."
+    },
+    "37": {
+        "Plant": "Tomato",
+        "Disease": "Healthy",
+        "Sunlight": "Full sun",
+        "Humidity": "Moderate humidity levels",
+        "Soil": "Well-drained soil with a pH of 6.0 to 7.0",
+        "Preventive Measures": "No preventive measures required for healthy tomato plants."
+    }
+}
