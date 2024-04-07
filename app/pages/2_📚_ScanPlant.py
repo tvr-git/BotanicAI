@@ -79,7 +79,7 @@ model = tf.keras.models.load_model(model_path)
 
 
 # loading the class names
-class_indices = json.load(open(r"app/class_indices.json"))
+class_indices = json.load(open("app/class_indices.json"))
 
 
 uploaded_image = st.file_uploader("Upload an image...", type=["jpg", "jpeg", "png"])
