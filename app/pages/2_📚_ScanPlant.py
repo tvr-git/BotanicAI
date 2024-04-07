@@ -74,7 +74,7 @@ st.title('Plant Disease Classifier and Weather Forecast')
 
 
 # Load the pre-trained model
-model_path = r"app/trained_model/plant_disease_prediction_model.h5"
+model_path = "app/trained_model/plant_disease_prediction_model.h5"
 model = tf.keras.models.load_model(model_path)
 
 
