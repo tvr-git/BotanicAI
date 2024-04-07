@@ -74,12 +74,12 @@ st.title('Plant Disease Classifier and Weather Forecast')
 
 
 # Load the pre-trained model
-model_path = r"C:\Users\ragav\Downloads\plant-disease-prediction-cnn-deep-leanring-project\plant-disease-prediction-cnn-deep-leanring-project\app\trained_model\plant_disease_prediction_model.h5"
+model_path = r"app/trained_model/plant_disease_prediction_model.h5"
 model = tf.keras.models.load_model(model_path)
 
 
 # loading the class names
-class_indices = json.load(open(r"C:\Users\ragav\Downloads\plant-disease-prediction-cnn-deep-leanring-project\plant-disease-prediction-cnn-deep-leanring-project\app\class_indices.json"))
+class_indices = json.load(open(r"app/class_indices.json"))
 
 
 uploaded_image = st.file_uploader("Upload an image...", type=["jpg", "jpeg", "png"])
