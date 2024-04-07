@@ -25,4 +25,4 @@ With BotanicEye, you can ensure that your plants receive the care they deserve, 
 """)
 
 # Display image
-st.image(r"C:\Users\ragav\Downloads\plant-disease-prediction-cnn-deep-leanring-project\plant-disease-prediction-cnn-deep-leanring-project\app\image.png", use_column_width=True)
+st.image(r"app\image.png", use_column_width=True)
